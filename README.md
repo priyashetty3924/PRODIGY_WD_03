@@ -15,5 +15,5 @@ A responsive and interactive Tic-Tac-Toe Web Application built using HTML, CSS a
 * CSS – Styling and responsive design
 * JavaScript – Game logic and functionality
 
-# Task-03:
-        Tic-Tac-Toe Web Application
+# Internship Task
+Task-03:Tic-Tac-Toe Web Application
